@@ -2,11 +2,9 @@
 
 🎨 Preview Visual
 Você pode visualizar o projeto online através do GitHub Pages:
-👉 Clique aqui para acessar
+👉 Clique aqui para acessar https://crixlima.github.io/formulario-de-matricula/
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Status do Projeto: ⚠️ Em fase de ajustes finais (Revisão de usabilidade na rolagem).
 
 📝 Sobre o Projeto
 O Estrelas do Amanhã é uma página de captura para matrícula de alunos em uma escola de educação infantil. O projeto foca em uma experiência de usuário (UX) fluida, 
